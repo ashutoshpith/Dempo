@@ -1,0 +1,11 @@
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\bin\Debug\netcoreapp2.0\Dempo.deps.json
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\bin\Debug\netcoreapp2.0\Dempo.runtimeconfig.json
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\bin\Debug\netcoreapp2.0\Dempo.runtimeconfig.dev.json
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\bin\Debug\netcoreapp2.0\Dempo.dll
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\bin\Debug\netcoreapp2.0\Dempo.pdb
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\obj\Debug\netcoreapp2.0\Dempo.csprojResolveAssemblyReference.cache
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\obj\Debug\netcoreapp2.0\Dempo.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\obj\Debug\netcoreapp2.0\Dempo.AssemblyInfoInputs.cache
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\obj\Debug\netcoreapp2.0\Dempo.AssemblyInfo.cs
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\obj\Debug\netcoreapp2.0\Dempo.dll
+C:\Users\Ashutosh\source\repos\Dempo\Dempo\obj\Debug\netcoreapp2.0\Dempo.pdb
